@@ -1,0 +1,8 @@
+# Built executables
+*.exe
+rt
+
+# Rendered images
+*.ppm
+*.png
+*.jpg

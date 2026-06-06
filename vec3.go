@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 	"math"
-	"math/rand"
+	"math/rand/v2"
 )
 
 // Vec3 is a 3-component vector used for points, directions, and colours.

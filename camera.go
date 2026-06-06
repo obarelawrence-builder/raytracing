@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"math"
-	"math/rand"
+	"math/rand/v2"
 	"os"
 	"runtime"
 	"sync"
