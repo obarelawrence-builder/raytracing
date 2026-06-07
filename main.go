@@ -1,3 +1,5 @@
+package main
+
 func randomScene() HittableList {
     var world HittableList
     ground := Lambertian{Albedo: NewVec3(0.5, 0.5, 0.5)}
